@@ -12,6 +12,7 @@
 ---
 
 ## 📌 Introdução
+
   Sistema simples em Java para cadastro e cálculo de salários de funcionários, com base em herança e polimorfismo.
   Feito para fins de aprendizado e prática com Programação Orientada a Objetos (POO).
 
