@@ -14,6 +14,7 @@
 ## 📌 Introdução
 
   Sistema simples em Java para cadastro e cálculo de salários de funcionários, com base em herança e polimorfismo.
+  
   Feito para fins de aprendizado e prática com Programação Orientada a Objetos (POO).
 
 ---
@@ -21,6 +22,7 @@
 ## 🧠 Funcionalidades
 
   • Cadastro de tipos de funcionários (Vendedor, FreeLancer, Gerente)
+  
   • Cálculo de salários
 
 ---
