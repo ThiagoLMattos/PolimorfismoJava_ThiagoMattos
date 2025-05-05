@@ -28,22 +28,22 @@
 
   1. Clone o repositório:
 
-    ```bash
-    git clone https://github.com/ThiagoLMattos/HerancaJava_ThiagoMattos.git
-    cd HerancaJava_ThiagoMattos
-    ```
+  ```bash
+  git clone https://github.com/ThiagoLMattos/PolimorfismoJava_ThiagoMattos.git
+  cd PolimorfismoJava_ThiagoMattos
+  ```
 
   2. Compile todos os arquivos .java:
    
-    ```bash
-    javac *.java
-    ```
+  ```bash
+  javac *.java
+  ```
 
-3. Execute o arquivo principal:
+  3. Execute o arquivo principal:
    
-    ```bash
-    java Main
-    ```
+  ```bash
+  java Main
+  ```
     
 ---
 
