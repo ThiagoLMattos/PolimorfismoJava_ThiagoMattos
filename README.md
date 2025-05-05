@@ -28,8 +28,10 @@
 
   1. Clone o repositório:
 
+    ```bash
     git clone https://github.com/ThiagoLMattos/HerancaJava_ThiagoMattos.git
     cd HerancaJava_ThiagoMattos
+    ```
 
   2. Compile todos os arquivos .java:
    
